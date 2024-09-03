@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.checkout .title {
+  color: #585858;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.sec-title {
+  color: #bbb;
+  font-size: 30px;
+  font-weight: 700;
+}
